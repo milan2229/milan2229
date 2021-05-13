@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=milan2229)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=milan2229&layout=compact)
 <!--
 **milan2229/milan2229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
