@@ -1,6 +1,13 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=milan2229&show_icons=true)
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=milan2229&layout=compact)
+<a href="https://github.com/milan2229">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=milan2229&show_icons=true&hide_border=true" />
+</a>
+<a href="https://github.com/milan2229">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milan2229&layout=compact&langs_count=6&hide=coffeescript&hide_border=true" />
+</a>
+<a href="https://github.com/milan2229">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=milan2229&theme=vue" height="260px" style="max-width:100%;" />
+</a>
 <!--
 **milan2229/milan2229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
